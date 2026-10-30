@@ -1,0 +1,7 @@
+f .venv/
+.venv-1/
+game/build/
+game/dist/
+__pycache__/
+.DS_Store
+
